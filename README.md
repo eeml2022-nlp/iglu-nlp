@@ -20,3 +20,4 @@ As our team is quite large it is neccessary to make sure that our code has consi
 3. It is highly encouraged to use [python docstring](https://peps.python.org/pep-0257/) in all major functions. I would recommend using [autoDocstring extension](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring).
 
 *P.S. In reality, we probably will copy-paste a lot of code from other projects, but rules described above should be applied at least to code that we write on our own.*
+
