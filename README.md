@@ -1,5 +1,5 @@
-# IEQA
-Question Answering augmented by explicit Information Extraction
+# Asking Clarifying Questions: IGLU challenge
+Repo for baselines and solutions to [NLP task of NeurIPS 2022 IGLU Challenge](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge/problems/neurips-2022-iglu-challenge-nlp-task).
 
 ## Installation
 
