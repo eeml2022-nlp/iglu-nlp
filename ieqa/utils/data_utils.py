@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 from typing import Dict, List
 
-LOTR_PATH = Path(__file__).parents[2] / "data/lotr.txt"
+LOTR_PATH = Path(__file__).parents[2] / "data/lotr/lotr.txt"
 
 CLEANR = re.compile(r"<.*?>")
 BOOKR = re.compile(r"####-\* BOOK (IX|IV|V?I{0,3}|0)")
